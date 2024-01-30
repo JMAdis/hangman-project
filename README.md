@@ -14,4 +14,4 @@ Welcome to the HangmanGame project! This is a simple implementation of the class
 1. Run the Main class.
 2. Select the desired difficulty level (Easy, Medium, or Hard) by entering the corresponding number.
 3. Guess the letters to complete the hidden word.
-4. Keep guessing until you either successfully guess the word or run out of attempts.
+4. Keep guessing until you either successfully guess the word or run out of attempts!
