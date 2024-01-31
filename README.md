@@ -1,5 +1,5 @@
 # HangmanGame
-Welcome to the HangmanGame project! This is a simple implementation of the classic Hangman game in Java. The game offers different difficulty levels, and players can guess words until they either successfully guess the word or run out of attempts.
+This is a simple implementation of the classic Hangman game in Java. The game offers different difficulty levels, and players can guess words until they either successfully guess the word or run out of attempts.
 
 ## Project Structure
 - Main class (Main.java): Contains the main method to run the Hangman game. It handles user input for selecting the difficulty level and initiates the game.
